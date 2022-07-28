@@ -1,11 +1,9 @@
 Cách cài đặt:
 - B1: Khởi động Xampp và truy cập http://localhost/phpmyadmin import CSDL "laplopvku.sql" trong mục db
 - B2: Tạo file .env đổi tên database 
-DB_DATABASE=laptopvku
-DB_USERNAME=root
-DB_PASSWORD=
+
 - B3: Truy cập  http://localhost/Intern-weblinhkien  để vào trang home
-    Truy cập  http://localhost/Intern-weblinhkien/admin  để vào trang Admin ( user: admin@gmail.com , Password: 123456 )
++     Truy cập  http://localhost/Intern-weblinhkien/admin  để vào trang Admin ( user: admin@gmail.com , Password: 123456 )
 - B4: Cách chạy:
 - composer install 
 - php artisan migrate
