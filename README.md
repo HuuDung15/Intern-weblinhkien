@@ -3,7 +3,7 @@ Cách cài đặt:
 - B2: Tạo file .env đổi tên database 
 
 - B3: Truy cập  http://localhost/Intern-weblinhkien  để vào trang home
-+     Truy cập  http://localhost/Intern-weblinhkien/admin  để vào trang Admin ( user: admin@gmail.com , Password: 123456 )
+-     Truy cập  http://localhost/Intern-weblinhkien/admin  để vào trang Admin ( user: admin@gmail.com , Password: 123456 )
 - B4: Cách chạy:
 - composer install 
 - php artisan migrate
